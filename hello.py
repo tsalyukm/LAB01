@@ -1,1 +1,1 @@
-print('Hello word')
+print('Hello word, maks, 19 years old')
