@@ -1,1 +1,1 @@
-print('Hello word, maks, 19 years old')
+print('Hello word, maks, 19 years old')#komentary
